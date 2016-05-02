@@ -1,0 +1,28 @@
+name: PIAA México
+favicon: null
+layout_spectrum: 0.5610920642502606
+typography_spectrum: 0.43313726619817317
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5961956966202706
+  lightness: 0.4502221383154392
+  saturation: 0.4606285789050162
+  rhythmicContrast: 0.04954956145957112
+purpose: []
